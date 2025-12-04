@@ -157,7 +157,7 @@ then
 PHP must be installed for the Phoronix Test Suite
 The PHP command-line package is commonly called php-cli, php7-cli, php8-cli, or php.
 For more information, see the included documentation or online via:
-	https://github.com/phoronix-test-suite/phoronix-test-suite/tree/master/documentation
+	https://github.com/Eddict/phoronix-test-suite/tree/master/documentation
 
 EOT
 
@@ -313,7 +313,7 @@ or install the program using the install-sh script.
 
 For support visit:
                    https://www.phoronix-test-suite.com/
-                   https://github.com/phoronix-test-suite/phoronix-test-suite
+                   https://github.com/Eddict/phoronix-test-suite
 
 EOT
 exit
@@ -346,7 +346,7 @@ PTS_PREPEND_LAUNCH=""
 #	export PTS_SCREENSAVER_PM_ALREADY_INHIBITED=1 # Setting to 1 will make toggle_screensaver PTS module disable
 #elif which systemd-inhibit >/dev/null 2>&1
 #then
-# Disable by default again due to https://github.com/phoronix-test-suite/phoronix-test-suite/pull/491#issuecomment-762899039
+# Disable by default again due to https://github.com/Eddict/phoronix-test-suite/pull/491#issuecomment-762899039
 #	PTS_PREPEND_LAUNCH='systemd-inhibit --what=idle:sleep --who="Phoronix Test Suite" --why="Phoronix Test Suite benchmarking" '
 #	export PTS_SCREENSAVER_PM_ALREADY_INHIBITED=1 # Setting to 1 will make toggle_screensaver PTS module disable
 #fi

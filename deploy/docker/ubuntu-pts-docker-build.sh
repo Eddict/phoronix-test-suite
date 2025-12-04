@@ -10,7 +10,7 @@ cd $DIR_NAME/base
 OS_ROOT_PATH=`pwd`
 
 rm -rf phoronix-test-suite/
-git clone https://github.com/phoronix-test-suite/phoronix-test-suite.git
+git clone https://github.com/Eddict/phoronix-test-suite.git
 cd phoronix-test-suite
 rm -rf .git
 

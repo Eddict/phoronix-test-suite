@@ -351,7 +351,7 @@ echo '<option value="' . count($tracker['triggers']) . '">All Results</option>';
 <?php } ?>
 <blockquote>
 <?php if(isset($welcome_msg) && !empty($welcome_msg)) { echo '<p>' . str_replace(PHP_EOL, '<br />', $welcome_msg) . '</p><hr />'; } ?>
-<p>This service is powered by the <a href="http://www.phoronix-test-suite.com/">Phoronix Test Suite</a>'s built-in <a href="http://www.phoromatic.com/">Phoromatic</a> test orchestration and centralized performance management software. The tests are hosted by <a href="http://openbenchmarking.org/">OpenBenchmarking.org</a>. The public code is <a href="http://github.com/phoronix-test-suite/phoronix-test-suite/">hosted on GitHub</a>.</p>
+<p>This service is powered by the <a href="http://www.phoronix-test-suite.com/">Phoronix Test Suite</a>'s built-in <a href="http://www.phoromatic.com/">Phoromatic</a> test orchestration and centralized performance management software. The tests are hosted by <a href="http://openbenchmarking.org/">OpenBenchmarking.org</a>. The public code is <a href="http://github.com/Eddict/phoronix-test-suite/">hosted on GitHub</a>.</p>
 <p><a href="http://www.phoronix-test-suite.com/"><img src="images/pts.png" /></a> &nbsp; &nbsp; &nbsp; <a href="http://www.phoromatic.com/"><img src="images/phoromatic.png" /></a> &nbsp; &nbsp; &nbsp; <a href="http://openbenchmarking.org/"><img src="images/ob.png" /></a></p></blockquote>
 
 <?php

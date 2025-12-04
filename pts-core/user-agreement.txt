@@ -8,7 +8,7 @@ Phoronix Test Suite User Agreement / Notices:
 
 - Anonymous usage reporting / statistics: If enabling the anonymous usage reporting / statistics feature, some information about the Phoronix Test Suite runs will be submitted to OpenBenchmarking.org. This information is used for analytical purposes, including the determining of the most popular tests / suites and calculating average run-times for different test profiles. The test results are not reported in this process nor the installed software / hardware information, but ambient information about the testing process. This information is stored anonymously. More information on this feature is available with the included documentation.
 
-- Community support / public bug reports, feature requests, and other issues can be brought up via GitHub: https://github.com/phoronix-test-suite For enterprise/commercial support, sponsorship, or other professional inquiries, contact commercial@phoronix-test-suite.com.
+- Community support / public bug reports, feature requests, and other issues can be brought up via GitHub: https://github.com/Eddict For enterprise/commercial support, sponsorship, or other professional inquiries, contact commercial@phoronix-test-suite.com.
 
-For more information on the Phoronix Test Suite and its features, visit https://www.phoronix-test-suite.com/, https://github.com/phoronix-test-suite/phoronix-test-suite or view the included documentation or by contacting support@phoronix-test-suite.com. Commercial support, custom engineering, and other services are available by contacting us.
+For more information on the Phoronix Test Suite and its features, visit https://www.phoronix-test-suite.com/, https://github.com/Eddict/phoronix-test-suite or view the included documentation or by contacting support@phoronix-test-suite.com. Commercial support, custom engineering, and other services are available by contacting us.
 

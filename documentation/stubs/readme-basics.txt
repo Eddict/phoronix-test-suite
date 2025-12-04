@@ -1,5 +1,5 @@
 
-[Phoronix Test Suite Documentation](https://github.com/phoronix-test-suite/phoronix-test-suite/blob/master/documentation/phoronix-test-suite.md)
+[Phoronix Test Suite Documentation](https://github.com/Eddict/phoronix-test-suite/blob/master/documentation/phoronix-test-suite.md)
 
 The Phoronix Test Suite itself is an open-source framework for conducting automated tests along with reporting of test results, detection of installed system software/hardware, and other features. This framework is designed to be an extensible architecture so that new test profiles and suites can be easily added to represent performance benchmarks, unit tests, and other quantitative and qualitative (e.g. image quality comparison and pass/fail) measurements. Available through OpenBenchmarking.org, a collaborative storage platform developed in conjunction with the Phoronix Test Suite, are more than 600 individual test profiles and more than 200 test suites available by default from the Phoronix Test Suite. Independent users are also able to upload their test results, profiles, and suites to OpenBenchmarking.org.
 

@@ -10,7 +10,7 @@ execution. The Phoronix Test Suite is open-source under the GNU GPLv3 license
 and is developed by Phoronix Media in cooperation with partners.
 
 [Phoronix Test Suite
-Documentation](https://github.com/phoronix-test-suite/phoronix-test-suite/blob/master/documentation/phoronix-test-suite.md)
+Documentation](https://github.com/Eddict/phoronix-test-suite/blob/master/documentation/phoronix-test-suite.md)
 
 The Phoronix Test Suite itself is an open-source framework for conducting
 automated tests along with reporting of test results, detection of installed

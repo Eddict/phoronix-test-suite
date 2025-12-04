@@ -13,7 +13,7 @@ FRESH_CLONE=0
 if [ ! -d /phoronix-test-suite ]
 then
 	cd /
-	git clone https://github.com/phoronix-test-suite/phoronix-test-suite.git
+	git clone https://github.com/Eddict/phoronix-test-suite.git
 	FRESH_CLONE=1
 fi
 

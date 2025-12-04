@@ -812,7 +812,7 @@ Without all of these extensions, some capabilities of the Phoronix Test Suite wi
 ### General
 You may need to modify the *php.ini* file on your system in order to support uploading results to OpenBenchmarking.org or logging into your OpenBenchmarking.org account. The *allow_url_fopen* , *file_uploads* , and *allow_url_include* options must be set to true in the PHP configuration.
 
-Major updates to the Phoronix Test Suite are released on a quarterly basis. The latest stable and development versions of the Phoronix Test Suite are available at [Phoronix-Test-Suite.com](http://www.phoronix-test-suite.com/) . The Git repository where the latest Phoronix Test Suite code is provided is hosted at [github.com/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) and can be cloned/pulled from the *https://github.com/phoronix-test-suite/phoronix-test-suite.git* repository location. The latest upstream development code is housed in the master tree while older Phoronix Test Suite releases are available in their respective Git branches based upon the release's code-name.
+Major updates to the Phoronix Test Suite are released on a quarterly basis. The latest stable and development versions of the Phoronix Test Suite are available at [Phoronix-Test-Suite.com](http://www.phoronix-test-suite.com/) . The Git repository where the latest Phoronix Test Suite code is provided is hosted at [github.com/Eddict](https://github.com/Eddict/phoronix-test-suite) and can be cloned/pulled from the *https://github.com/Eddict/phoronix-test-suite.git* repository location. The latest upstream development code is housed in the master tree while older Phoronix Test Suite releases are available in their respective Git branches based upon the release's code-name.
 
 If building the PHP package from upstream sources, it should just be a matter of running *./configure* with the *--enable-zip* flag (all other requirements should be apart of the stock PHP configuration) to satisfy the PHP needs of the Phoronix Test Suite.
 
@@ -864,7 +864,7 @@ Various test profiles may depend upon other "external dependencies" like Python,
 ### Running The Phoronix Test Suite On Windows
 The Phoronix Test Suite can run from its local directory and does not need to be "installed" to a system path or any other "setup" process prior to execution. On a clean install of Windows or Windows Server, deploying the Phoronix Test Suite is designed to be as easy and straight-forward as possible:
 
-1. Download the Phoronix Test Suite from [Phoronix-Test-Suite on GitHub](https://github.com/phoronix-test-suite/phoronix-test-suite) ( [zip file](https://github.com/phoronix-test-suite/phoronix-test-suite/archive/master.zip) ).
+1. Download the Phoronix Test Suite from [Phoronix-Test-Suite on GitHub](https://github.com/Eddict/phoronix-test-suite) ( [zip file](https://github.com/Eddict/phoronix-test-suite/archive/master.zip) ).
 
 2. From the Command Prompt or PowerShell, enter the *phoronix-test-suite* directory whether it be from Git or a zipped download.
 
@@ -1521,7 +1521,7 @@ We also try to make the Phoronix Test Suite easy-to-use by independent publicati
 
 **Q: Do you offer technical support for the Phoronix Test Suite**
 
-**A:** Paid, professional support is available and is done via [our commercial services](http://commercial.phoronix-test-suite.com/) . Free, community support is offered via [GitHub](https://github.com/phoronix-test-suite) .
+**A:** Paid, professional support is available and is done via [our commercial services](http://commercial.phoronix-test-suite.com/) . Free, community support is offered via [GitHub](https://github.com/Eddict) .
 
 **Q: May I put the Phoronix Test Suite logo on my company's web-site or on my product packaging?**
 
@@ -1529,7 +1529,7 @@ We also try to make the Phoronix Test Suite easy-to-use by independent publicati
 
 **Q: How often is the Phoronix Test Suite updated?**
 
-**A:** We provide major updates on a quarterly basis with an occasional point release to fix outstanding bugs or address other issues. The latest work going into the Phoronix Test Suite is accessible via our Git repository at [github.com/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite/) .
+**A:** We provide major updates on a quarterly basis with an occasional point release to fix outstanding bugs or address other issues. The latest work going into the Phoronix Test Suite is accessible via our Git repository at [github.com/Eddict](https://github.com/Eddict/phoronix-test-suite/) .
 
 
 ## Tips & Tricks

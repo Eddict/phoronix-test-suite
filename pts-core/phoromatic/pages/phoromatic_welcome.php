@@ -167,7 +167,7 @@ class phoromatic_welcome implements pts_webui_interface
 
 			$box = '<h1>Welcome</h1>
 			<p>You must log-in to your Phoromatic account or create an account to access this service.</p>
-			<p>Phoromatic is the remote management and test orchestration system for the <a href="https://github.com/phoronix-test-suite/phoronix-test-suite">Phoronix Test Suite</a>. Phoromatic allows the automatic scheduling of tests, remote installation of new tests, and the management of multiple test systems over a network (LAN/WAN) all through an intuitive, easy-to-use web interface. Tests can be scheduled to automatically run on a routine basis across multiple test systems. The test results are then available from this centralized location along with other features for interacting with Phoronix Test Suite systems.</p>
+			<p>Phoromatic is the remote management and test orchestration system for the <a href="https://github.com/Eddict/phoronix-test-suite">Phoronix Test Suite</a>. Phoromatic allows the automatic scheduling of tests, remote installation of new tests, and the management of multiple test systems over a network (LAN/WAN) all through an intuitive, easy-to-use web interface. Tests can be scheduled to automatically run on a routine basis across multiple test systems. The test results are then available from this centralized location along with other features for interacting with Phoronix Test Suite systems.</p>
 			<p>Phoromatic makes it very easy to provide for automated scheduling of tests on multiple systems, is extremely extensible, allows various remote testing possibilities, makes it very trivial to manage multiple systems, and centralizes result management within an organization.</p>
 			<p id="features_link"><a onclick="javascript:document.getElementById(\'features\').style.display = \'block\'; document.getElementById(\'features_link\').style.display = \'none\';">Learn more about Phoromatic</a>.</p>
 			<div style="display: none;" id="features">
@@ -196,8 +196,8 @@ class phoromatic_welcome implements pts_webui_interface
 <h3>E-Mail Notifications</h3>
 <p>The Phoromatic Server is able to send out notifications of new results being available, systems that appear hung, immediate alerts of system errors, and other important information so that it can be dealt with in a timely manner (assuming your Phoromatic server has a working mail server).</p>
 <h1>Getting Started</h1>
-<p>Getting started can be as easy as <strong>phoronix-test-suite start-phoromatic-server</strong> to deploy a Phoromatic Server with HTTP access for the UI. Setting up client systems can be as simple as <strong>phoronix-test-suite phoromatic.connect</strong> and there are systemd files available for easy access to. <strong>More details can be found via the <a href="https://github.com/phoronix-test-suite/phoronix-test-suite/blob/master/documentation/phoronix-test-suite.md#phoronix-test-suite-phoromatic"><strong>Phoronix Test Suite documentation</strong></a>.</strong></p>
-<p>The Phoronix Test Suite source-code is <a href="https://github.com/phoronix-test-suite/phoronix-test-suite/">hosted via GitHub</a>.</p>
+<p>Getting started can be as easy as <strong>phoronix-test-suite start-phoromatic-server</strong> to deploy a Phoromatic Server with HTTP access for the UI. Setting up client systems can be as simple as <strong>phoronix-test-suite phoromatic.connect</strong> and there are systemd files available for easy access to. <strong>More details can be found via the <a href="https://github.com/Eddict/phoronix-test-suite/blob/master/documentation/phoronix-test-suite.md#phoronix-test-suite-phoromatic"><strong>Phoronix Test Suite documentation</strong></a>.</strong></p>
+<p>The Phoronix Test Suite source-code is <a href="https://github.com/Eddict/phoronix-test-suite/">hosted via GitHub</a>.</p>
 			</div>
 			<hr />
 			<h1>Log-In</h1>

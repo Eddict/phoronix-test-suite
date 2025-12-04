@@ -459,7 +459,7 @@ class pts_openbenchmarking
 
 				if(!isset($reported_read_failure_notice[$repo_name]) && PTS_IS_CLIENT)
 				{
-					trigger_error('Failed To Fetch OpenBenchmarking.org Repository Data: ' . $repo_name . '. ' . (!pts_network::internet_support_available() ? 'Internet connection disabled/unavailable.' : 'If this issue persists, file an issue @ https://github.com/phoronix-test-suite/phoronix-test-suite/issues'), E_USER_WARNING);
+					trigger_error('Failed To Fetch OpenBenchmarking.org Repository Data: ' . $repo_name . '. ' . (!pts_network::internet_support_available() ? 'Internet connection disabled/unavailable.' : 'If this issue persists, file an issue @ https://github.com/Eddict/phoronix-test-suite/issues'), E_USER_WARNING);
 					$reported_read_failure_notice[$repo_name] = true;
 				}
 			}
@@ -654,7 +654,7 @@ class pts_openbenchmarking
 			{
 				if(!defined('PHOROMATIC_SERVER'))
 				{
-					trigger_error('Unable to obtain ' . $qualified_identifier . ' from OpenBenchmarking.org. ' . (!pts_network::internet_support_available() ? 'Internet connection disabled/unavailable.' : 'If this issue persists, file an issue @ https://github.com/phoronix-test-suite/phoronix-test-suite/issues') . PHP_EOL, E_USER_WARNING);
+					trigger_error('Unable to obtain ' . $qualified_identifier . ' from OpenBenchmarking.org. ' . (!pts_network::internet_support_available() ? 'Internet connection disabled/unavailable.' : 'If this issue persists, file an issue @ https://github.com/Eddict/phoronix-test-suite/issues') . PHP_EOL, E_USER_WARNING);
 				}
 				return false;
 			}
@@ -914,7 +914,7 @@ class pts_openbenchmarking
 			{
 				if(!defined('PHOROMATIC_SERVER'))
 				{
-					trigger_error('Unable to obtain ' . $qualified_identifier . ' from OpenBenchmarking.org. ' . (!pts_network::internet_support_available() ? 'Internet connection disabled/unavailable.' : 'If this issue persists, file an issue @ https://github.com/phoronix-test-suite/phoronix-test-suite/issues') . PHP_EOL, E_USER_WARNING);
+					trigger_error('Unable to obtain ' . $qualified_identifier . ' from OpenBenchmarking.org. ' . (!pts_network::internet_support_available() ? 'Internet connection disabled/unavailable.' : 'If this issue persists, file an issue @ https://github.com/Eddict/phoronix-test-suite/issues') . PHP_EOL, E_USER_WARNING);
 				}
 				return false;
 			}
